@@ -1,4 +1,4 @@
-package com.aijuno.netty.handler;
+package com.aijuno.netty.firstExample.handler;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
